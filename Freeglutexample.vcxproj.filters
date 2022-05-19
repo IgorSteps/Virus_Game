@@ -64,5 +64,9 @@
     <None Include="glslfiles\basicTexture.frag">
       <Filter>source\glslfiles</Filter>
     </None>
+    <None Include="..\VirusGameCoursework\x64\Debug\freeglut.dll" />
+    <None Include="..\VirusGameCoursework\x64\Debug\FreeImage.dll" />
+    <None Include="..\VirusGameCoursework\x64\Debug\freetype.dll" />
+    <None Include="..\VirusGameCoursework\x64\Debug\glew32.dll" />
   </ItemGroup>
 </Project>
